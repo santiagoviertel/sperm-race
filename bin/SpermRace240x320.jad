@@ -1,0 +1,8 @@
+MIDlet-1: Principal,IM_Icon16x16.png,Principal
+MIDlet-Jar-Size: 130976
+MIDlet-Jar-URL: SpermRace240x320.jar
+MIDlet-Name: Sperm Race
+MIDlet-Vendor: Céu Games
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
