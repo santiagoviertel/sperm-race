@@ -6,7 +6,7 @@ Game programmed to four groups of mobile phones, with two distinct screen sizes 
 
 This project was led in Céu Games company by:
 - One game designer: [Fabiano Naspolini de Oliveira](https://www.fabricadejogos.net)
-- Three software engineers: Santiago Viertel, Tatiane Wagenführ Olivette and [Thalisson Christiano de Almeida](https://github.com/thalisson-ca)
+- Three software engineers: Santiago Viertel, [Tatiane Wagenführ Olivette](http://lattes.cnpq.br/4289908552981620) and [Thalisson Christiano de Almeida](https://github.com/thalisson-ca)
 - Two graphic artists: [David Alves Fernandes Neto](https://www.deviantart.com/davidneto) and [Filipe Leal](https://filipegamedev.itch.io)
 - One musician: [Thiago Meister](https://instagram.com/thiagomeister86)
 
